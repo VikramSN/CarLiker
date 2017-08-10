@@ -4,7 +4,7 @@
 ### CarLiker
 =============
 ## Getting Started
-The purpose of the website is buy and sale car. By using this web application you can add your car on for sale and
+The purpose of the website is buy and sale car. By using this web application you can add your car for sale and
 also you can buy car through contact with dealer.
 
 ### Prerequisites
@@ -25,7 +25,7 @@ if you import my project successfully then just run it by using F6 or Right Clic
 ## Built With
 i built my project by using Java,Servlet,JSP,HTML,CSS,JavaScript,JavaMailAPI,Bootstrap etc. 
 
-## Authors
+## Author
 
 * **Vikram Singh Negi** - *Student* - [National Institute of Information Technology](http://www.niitstudent.com/)
 
